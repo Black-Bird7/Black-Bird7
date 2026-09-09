@@ -140,6 +140,25 @@ Exploring:
 
 ---
 
+## 📊 Custom Profile Snapshot
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REPOS%20CONTRIBUTED-12-161b22?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STARS-8-161b22?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/COMMITS-155-161b22?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FOLLOWERS-238-161b22?style=for-the-badge&labelColor=0d1117"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LINES%20OF%20CODE%20ON%20GITHUB-74%2C343%2B-161b22?style=for-the-badge&labelColor=0d1117"/>
+
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -196,42 +215,3 @@ building:
   - Low-level utilities
   - Research projects
   - Automation
-```
-
----
-
-## 🧠 Engineering Philosophy
-
-```text
-Understand the system.
-Break the assumptions.
-Find the weakness.
-Build something better.
-```
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="mailto:Rishabhdev.2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Rishabhdev.2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/rishxbd">
-    <img src="https://img.shields.io/badge/Instagram-@rishxbd-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/ED7Ms9fRYK">
-    <img src="https://img.shields.io/badge/Discord-ED7Ms9fRYK-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/black-bird7">
-    <img src="https://img.shields.io/badge/GitHub-black--bird7-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### `Building systems. Breaking assumptions. Learning continuously.`
-
-</div>
