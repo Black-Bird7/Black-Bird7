@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <defs>
+    <clipPath id="portraitClip"><rect x="34" y="34" width="390" height="452" rx="24"/></clipPath>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.96"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="520" rx="28" fill="#ffffff"/>
+  <rect x="18" y="18" width="1164" height="484" rx="28" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2" filter="url(#shadow)"/>
+
+  <!-- portrait -->
+  <rect x="34" y="34" width="390" height="452" rx="24" fill="#ffffff"/>
+  <image href="profile.jpg" x="34" y="34" width="390" height="452"
+         preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)"/>
+  <rect x="34" y="34" width="390" height="452" rx="24" fill="url(#fade)" opacity="0.35"/>
+
+  <!-- terminal/info panel -->
+  <rect x="452" y="34" width="714" height="452" rx="24" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <circle cx="480" cy="62" r="6" fill="#ff5f56"/>
+  <circle cx="500" cy="62" r="6" fill="#ffbd2e"/>
+  <circle cx="520" cy="62" r="6" fill="#27c93f"/>
+  <text x="548" y="68" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">rishabh@dev — about</text>
+
+  <text x="480" y="112" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">$ whoami</text>
+  <text x="480" y="142" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700">RISHABH DEV</text>
+  <text x="480" y="168" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Cybersecurity • Systems • Low-Level Programming</text>
+
+  <text x="480" y="208" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">$ cat focus.txt</text>
+
+  <text x="480" y="238" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">01</text>
+  <text x="516" y="238" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Offensive Security</text>
+  <text x="735" y="238" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">02</text>
+  <text x="771" y="238" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Reverse Engineering</text>
+
+  <text x="480" y="268" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">03</text>
+  <text x="516" y="268" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Binary Analysis</text>
+  <text x="735" y="268" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">04</text>
+  <text x="771" y="268" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Fuzzing</text>
+
+  <text x="480" y="298" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">05</text>
+  <text x="516" y="298" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Digital Forensics</text>
+  <text x="735" y="298" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">06</text>
+  <text x="771" y="298" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Linux / OS Internals</text>
+
+  <text x="480" y="338" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">$ languages</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#24292f">
+    <rect x="480" y="354" width="78" height="30" rx="15" fill="#eaeef2"/><text x="499" y="374">C/C++</text>
+    <rect x="568" y="354" width="78" height="30" rx="15" fill="#eaeef2"/><text x="589" y="374">Python</text>
+    <rect x="656" y="354" width="70" height="30" rx="15" fill="#eaeef2"/><text x="677" y="374">Rust</text>
+    <rect x="736" y="354" width="100" height="30" rx="15" fill="#eaeef2"/><text x="759" y="374">Assembly</text>
+    <rect x="846" y="354" width="78" height="30" rx="15" fill="#eaeef2"/><text x="869" y="374">Linux</text>
+  </g>
+
+  <text x="480" y="418" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">$ currently_learning</text>
+  <text x="480" y="448" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Satellite Mapping • Advanced Systems • Security Research</text>
+
+  <text x="1128" y="465" text-anchor="end" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">black-bird7</text>
+</svg>
