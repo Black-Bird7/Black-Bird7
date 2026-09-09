@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1067px" height="536px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+.ascii {fill: #24292f; font-size: 13px;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1067px" height="536px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" class="ascii">
+<tspan x="15" y="30">                           ^!-nnnnLLY}!^</tspan>
+<tspan x="15" y="47">                         ^}YLLmLLYLmkkkkmm}</tspan>
+<tspan x="15" y="64">                        !\YYLmkmmmmkkkkk%&amp;%m!</tspan>
+<tspan x="15" y="81">                       \YnnnnYLLmkk%%%%k%%%&amp;L</tspan>
+<tspan x="15" y="98">                      \LnLLYnnnLmk%kkmLLmk%%%m}</tspan>
+<tspan x="15" y="115">                     ^Lmkmn\-!!}\nYYn\}}}Y%kkkk!</tspan>
+<tspan x="15" y="132">                      Lkm!^-}}----\}-}}}}n%kk%m</tspan>
+<tspan x="15" y="149">                     ^mk- !--nLY}^-}nYnYY\m&amp;%%!</tspan>
+<tspan x="15" y="166">                     -nY!!-\\LmL!^YkLnYYYnY%%-</tspan>
+<tspan x="15" y="183">                     \\}!^^-\\\-^!LkLLLLY\L%-</tspan>
+<tspan x="15" y="200">                     ^}}!^ !\n--^-LmY\}-}\mY</tspan>
+<tspan x="15" y="217">                      Y\---nY-!-}nkmY}-}\LL!</tspan>
+<tspan x="15" y="234">                      -\--}mY\}-\nLkmn\YY}^</tspan>
+<tspan x="15" y="251">                       }\}}\}--\\nmmLnLL-</tspan>
+<tspan x="15" y="268">                    ^Yn!}nn-!^!}\nYYYmL!</tspan>
+<tspan x="15" y="285">                    Y%\!-}nn\}}}}nYLmL^</tspan>
+<tspan x="15" y="302">             ^!!   ^mm--}-!-}\YLmmmmmn</tspan>
+<tspan x="15" y="319">        ^!-^-}^^   !Lk}!--^^-}YmLLYYLL}</tspan>
+<tspan x="15" y="336">   ^^!-\\n-!Yn!   ^-n%mn}}-!-\YYn\nYkY--!</tspan>
+<tspan x="15" y="353">  ---}nYY\^nY\  !\Y}n%kmLYnnnYLYnnYL%n!!-\}^</tspan>
+<tspan x="15" y="370">  }n\nnYL}-YY}-!LnY\}kkmmLmmLYYYYLLkm-^ -\Yn-!          ^</tspan>
+<tspan x="15" y="387"> ^^YYL\nL-}Yn\}^n-!Y}!LmYLLYn\nYLLmL}^ }mnYY\}}!^!!-}}}---^</tspan>
+<tspan x="15" y="404"> -^}LL\}L--Ynn}!Yn!-Y!-LmLYYnnnnYLn-!^-LYnYYn\\\}--}-!^</tspan>
+<tspan x="15" y="421"> }}-Lm\}L-!YYY\-Yn\^nn-^nmL\nLYLL}!-! \Ynnnn\\}}}}}-!</tspan>
+<tspan x="15" y="438"> }\!Ymn-L}^nLYn-Ynn}!Y\!^YkLLLmL}!!^^!\nn\\}}}}}}}}}}}!</tspan>
+<tspan x="15" y="455"> !\!Ymn-Y\ }LmY}YYn\ }n}^-kkmmn!^^!}nYnn\}}}\\}}}}}}}\\^</tspan>
+<tspan x="15" y="472">  -!nLn!n\^!nLYnYnnn!^Y\-!mmL}^^!nLLYnn}-}}}\}}}}}--n\\}</tspan>
+<tspan x="15" y="489">   ^\n}^\}!!-nYYYnYn}^nn\-mm! ^ ^nYn\\\--}}}}-}}}}-\\\\}!</tspan>
+</text>
+<text x="480" y="30" fill="#24292f">
+<tspan x="480" y="30">rishabh@black-bird7</tspan> -------------------------------------------
+<tspan x="480" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Arch Linux / Kali Linux</tspan>
+<tspan x="480" y="70" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................................................. </tspan><tspan class="value">zsh</tspan>
+<tspan x="480" y="90" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Neovim, VS Code</tspan>
+<tspan x="480" y="110" class="cc">. </tspan><tspan class="key">GitHub Member Since</tspan>:<tspan class="cc" id="uptime_data_dots"> ........................... </tspan><tspan class="value" id="uptime_data">calculating...</tspan>
+<tspan x="480" y="130" class="cc">. </tspan>
+<tspan x="480" y="150" class="cc">. </tspan><tspan class="key">Focus.Security</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Offensive Sec, Reverse Engineering</tspan>
+<tspan x="480" y="170" class="cc">. </tspan><tspan class="key">Focus.Systems</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Linux Internals, Binary Analysis</tspan>
+<tspan x="480" y="190" class="cc">. </tspan><tspan class="key">Focus.Learning</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Satellite Mapping, Sec Research</tspan>
+<tspan x="480" y="210" class="cc">. </tspan>
+<tspan x="480" y="230" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">C, C++, Python, Rust, Assembly</tspan>
+<tspan x="480" y="250" class="cc">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS, JS, TS, React, Node</tspan>
+<tspan x="480" y="270" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">MySQL, PostgreSQL, MongoDB, Redis</tspan>
+<tspan x="480" y="290">- Contact</tspan> -----------------------------------------------------
+<tspan x="480" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Rishabhdev.2025@gmail.com</tspan>
+<tspan x="480" y="330" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">@rishxbd</tspan>
+<tspan x="480" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">discord.gg/ED7Ms9fRYK</tspan>
+<tspan x="480" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">black-bird7</tspan>
+<tspan x="480" y="390">- Profile Snapshot</tspan> ------------------------------------------------
+<tspan x="480" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">12</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">12</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">8</tspan>
+<tspan x="480" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">155</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">238</tspan>
+<tspan x="480" y="450" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> . </tspan><tspan class="value">74,343+</tspan>
+</text>
+</svg>
