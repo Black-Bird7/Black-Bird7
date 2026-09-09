@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **Satellite Mapping**
 
+- 👯 I’m looking to collaborate on **Linux-Kernal**
+
+- 💬 Ask me about **Offensive Security • Exploit Development • Reverse Engineering Binary Analysis • Fuzzing • Web & Network Security OS Internals • Low-Level Programming • Digital Forensics C/C++ • Python • Rust • Assembly • Linux**
+
 - 📫 How to reach me **Rishabhdev.2025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-bird7&show_icons=true&locale=en&layout=compact" alt="black-bird7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=black-bird7&show_icons=true&locale=en" alt="black-bird7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=black-bird7&" alt="black-bird7" /></p>
